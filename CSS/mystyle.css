@@ -35,3 +35,17 @@ nav img {
     width: 100px;
     height: 100px; 
  }
+
+ #sign_up_today {
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+ }
+
+ #sign_up_today form {
+    flex: 1;
+    max-width: 400px;
+ }
