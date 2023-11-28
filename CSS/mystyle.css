@@ -29,3 +29,9 @@ main {
     margin-right: auto;
     max-width: 1000px;
 }
+
+nav img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px; 
+ }
