@@ -17,7 +17,7 @@ footer {
 
 .activity-row {
     display: flex;
-    text-align: center;
+    text-align: left;
 }
 
 main {
@@ -59,3 +59,8 @@ nav img {
  .activity-col {
     padding: 10px;
 }
+
+.list-paragraph {
+    margin-left: auto;
+    text-align: left;
+ }
