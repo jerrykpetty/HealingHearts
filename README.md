@@ -1,5 +1,5 @@
 # ♥ HealingHearts ♥
-Created by Jerry Petty and Amy Wong
+Created by Jerry Petty and Amy Wong \
 CIS 3610-02: Web Design and Development
 
 Website Link: https://jerrykpetty.github.io/HealingHearts/ \
